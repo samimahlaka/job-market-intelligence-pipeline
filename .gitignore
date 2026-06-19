@@ -1,0 +1,6 @@
+echo ".env" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "data/raw/" >> .gitignore
+echo "data/processed/" >> .gitignore
+echo "data/curated/" >> .gitignore
